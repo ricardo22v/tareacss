@@ -1,0 +1,39 @@
+/* Selectores */
+
+h1 {
+    background-color: rgb(34, 125, 215);
+}
+
+/* Herencia */
+
+p {
+    color: brown;
+}
+
+a {
+    color: inherit
+}  
+
+/* Cascada */
+
+h2 {
+    color: aquamarine;
+}
+
+h2 {
+    color: red;
+}
+
+h2 {
+    color: yellowgreen;
+}
+
+/* Especificidad */
+
+.selectorClass {
+    color: chocolate;
+}
+
+#selectorId {
+    color:rgb(255, 0, 0)
+}
