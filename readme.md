@@ -1,0 +1,1 @@
+Selectores: la forma en que aplicamos estilos a nuestro css
